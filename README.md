@@ -18,6 +18,8 @@ I build production-oriented AI/ML systems and developer tooling on AWS, with a p
 - [Intelligent Document Processing Starter](https://github.com/dgallitelli/aws-intelligent-document-processing-starter) — hybrid document extraction comparing Claude, Amazon Bedrock Data Automation, and Amazon Textract.
 - [Remote MCP on AgentCore](https://github.com/dgallitelli/remote-mcp-agentcore-tutorial) — tutorial for deploying MCP servers to Amazon Bedrock AgentCore Runtime.
 
+### [Browse all AWS repositories](https://github.com/dgallitelli?tab=repositories&q=topic%3Aaws)
+
 ## Pokémon TCG tools
 
 - [JP → EN Card Matcher](https://github.com/dgallitelli/pokemon-tcg-jp-en-matcher) — identify Japanese cards and view their English equivalents or translated text.
@@ -25,7 +27,7 @@ I build production-oriented AI/ML systems and developer tooling on AWS, with a p
 - [Deck Analyzer](https://dgallitelli.github.io/pokemon-tcg-deck-analyzer/) — explore card co-occurrence and deck-building relationships.
 - [TCG Live Redeemer](https://github.com/dgallitelli/pkmn-tcg-redeem) — batch-redeem booster codes through a local Chrome session.
 
-[Browse all Pokémon repositories](https://github.com/dgallitelli?tab=repositories&q=topic%3Apokemon-tcg)
+### [Browse all Pokémon repositories](https://github.com/dgallitelli?tab=repositories&q=topic%3Apokemon-tcg)
 
 ## Other work
 
