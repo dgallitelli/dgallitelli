@@ -2,22 +2,21 @@
 
 I build production-oriented AI/ML systems and developer tooling on AWS, with a particular focus on Amazon SageMaker AI and agentic applications. I also build practical tools for Pokémon TCG players.
 
-## Amazon SageMaker AI
+## AWS
 
-### Developer tools
+### AI/ML tools and experiments
 
-- [Claude Code skill for SageMaker AI](https://github.com/dgallitelli/claude-code-skill-for-sagemaker-ai) — guidance across training, inference, HyperPod, Model Monitor, AutoGluon, and SDK v3.
-- [SageMaker AI MCP Server](https://github.com/dgallitelli/sagemaker-ai-mcp-server) — monitor and manage SageMaker resources through MCP.
+- [SageMaker AI Agent Plugin](https://github.com/dgallitelli/sagemaker-ai-agent-plugin) — one portable plugin for Codex, Kiro, and Claude Code, consolidating guidance for SDK v3, training, inference, HyperPod, monitoring, and managed warm pools.
+- [SageMaker Lab](https://github.com/dgallitelli/sagemaker-lab) — consolidated experiments and validated findings across LLM training, AutoML, time series, embeddings, and tabular ML.
 - [smbench](https://github.com/dgallitelli/smbench) — throughput and latency benchmarking for real-time inference endpoints.
+- [Kiro Power for Amazon Bedrock](https://github.com/dgallitelli/kiro-power-for-amazon-bedrock) — guidance for model invocation, agents, knowledge bases, guardrails, fine-tuning, prompts, and flows.
 
-### Training and applied ML
+### Applications and reference architectures
 
-- [AutoGluon with SageMaker SDK v3](https://github.com/dgallitelli/sagemaker-autogluon-sdkv3) — tabular, time-series, and multimodal examples.
-- [Gemma 4 with Unsloth](https://github.com/dgallitelli/gemma4-unsloth-sagemaker) — QLoRA fine-tuning on a single L40S.
-- [Qwen 3.5 SFT](https://github.com/dgallitelli/qwen35-sft-sagemaker) — validated QLoRA and full fine-tuning recipes.
-- [TabPFN-3 experiments](https://github.com/dgallitelli/sagemaker-tabpfn3-experiments) — serving, benchmarking, and documented capacity findings.
-
-[Browse all SageMaker repositories](https://github.com/dgallitelli?tab=repositories&q=topic%3Aamazon-sagemaker)
+- [Agents from the Web](https://github.com/dgallitelli/agents-from-the-web) — reference implementation for connecting AI agents to web interfaces with Amazon Bedrock AgentCore.
+- [Governed Data Agent](https://github.com/dgallitelli/aws-data-agent-skill-strands-agentcore) — governed data discovery and natural-language-to-SQL using Strands, AWS MCP Server, and AgentCore Runtime.
+- [Intelligent Document Processing Starter](https://github.com/dgallitelli/aws-intelligent-document-processing-starter) — hybrid document extraction comparing Claude, Amazon Bedrock Data Automation, and Amazon Textract.
+- [Remote MCP on AgentCore](https://github.com/dgallitelli/remote-mcp-agentcore-tutorial) — tutorial for deploying MCP servers to Amazon Bedrock AgentCore Runtime.
 
 ## Pokémon TCG tools
 
